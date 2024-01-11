@@ -31,7 +31,7 @@
 .meme-generator .meme-author {
   margin: 8px;
 }
-@media screen {
+@media only screen and (max-width: 500px) {
   .meme-generator img {
     width: 100%;
     height: auto;

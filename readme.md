@@ -9,3 +9,4 @@
 ## Notes
 
 -Improved responsiveness
+-Adjusted height to image
