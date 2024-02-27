@@ -8,5 +8,5 @@
 
 ## Notes
 
--Improved responsiveness
--Adjusted height to image
+- Improved responsiveness
+- Adjusted height to image
